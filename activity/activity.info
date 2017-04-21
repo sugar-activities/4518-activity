@@ -1,0 +1,9 @@
+[Activity]
+name = Flip
+activity_version = 9
+license = GPLv3
+exec = sugar-activity FlipActivity.FlipActivity
+bundle_id = org.sugarlabs.FlipActivity
+icon = activity-flip
+show_launcher = yes
+summary = a simple strategy game
